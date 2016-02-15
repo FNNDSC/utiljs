@@ -3,10 +3,10 @@
  *
  */
 
-define(['utiljs'], function(utiljs) {
+define(['utiljsPackage'], function(utiljs) {
   describe('utiljs', function() {
     it('utiljs.strEndsWith(str, arrayOfStr) verifies if str ends with any of the strings in arrayOfStr',
-      function () {
+      function() {
         expect(utiljs.strEndsWith('testfile.txt', ['.txt'])).toEqual(true);
       });
   });
