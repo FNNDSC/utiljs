@@ -1,15 +1,14 @@
 require(['./config'], function() {
+
   require(['utiljsPackage'], function(util) {
 
-  /**
-  * Main function.
-  */
-  function main() {
-  }
+    /**
+    * Main function.
+    */
+    function main() {
+    }
 
-
-  // Entry point
-  main();
-
+    // Entry point
+    main();
   });
 });
