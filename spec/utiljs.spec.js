@@ -3,7 +3,7 @@
  *
  */
 
-define(['utiljsPackage'], function(utiljs) {
+define(['utiljs'], function(utiljs) {
 
   describe('utiljs', function() {
 

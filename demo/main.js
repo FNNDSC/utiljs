@@ -1,6 +1,6 @@
 require(['./config'], function() {
 
-  require(['utiljsPackage'], function(util) {
+  require(['utiljs'], function(util) {
 
     /**
     * Main function.
